@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a cognitive neuroscientist working on expectations and future state representations 💫 
+* I investigate how the **present** sensations are **shaped** by your **expectations** of the future, in the brain 🧠
+* I use **statistical and computational methods** to explore these questions.
+* I'm a **full-stack** data scientist, 👩‍🔬 also passionate about **data curation** and **open science**, all the way up to fun analyses to help tackle questions about the brain.
+
+For more info: [jungheejung.github.io](jungheejung.github.io)
+
 <!--
 **jungheejung/jungheejung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
