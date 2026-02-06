@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Heejug 👋
 
-I'm a cognitive neuroscientist working on expectations and future state representations 💫 
+I'm a cognitive neuroscientist (PhD) working on expectations and future state representations 💫 
 * I investigate how the **present** sensations are **shaped** by your **expectations** of the future, in the brain 🧠
 * I use **statistical and computational methods** to explore these questions.
 * I'm a **full-stack** data scientist, 👩‍🔬 also passionate about **data curation** and **open science**, all the way up to fun analyses to help tackle questions about the brain.
